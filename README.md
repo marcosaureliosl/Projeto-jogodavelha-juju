@@ -1,4 +1,8 @@
-# Projeto-jogodavelha-juju
+
+## Esse projeto fiz em especial para minha filhinha que amo!!! Por que ela adora jogar esse jogo da velha !!! foi legal criar algo para ela brincar. 
+
+
+## Projeto-jogodavelha-juju
 ![O venceu](https://github.com/marcosaureliosl/Projeto-jogodavelha-juju/assets/127764997/09d38119-def3-4f26-8528-6a305d76fca6)
 
 ## Responsivo
