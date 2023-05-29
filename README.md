@@ -24,7 +24,7 @@ Algumas lendas urbanas contam que o jogo terá nascido em Portugal, na cidade de
 
 
 
-## Acesse Meu localhost
+## Demo do Projeto
 
 
 [Clique aqui](https://marcosaureliosl.github.io/Projeto-jogodavelha-juju/) para visualizar o Projeto.
